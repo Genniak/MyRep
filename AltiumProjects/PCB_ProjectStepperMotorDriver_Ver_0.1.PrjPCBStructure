@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=StepperMotorDriver_Ver_0.1.SchDoc
+Record=SheetSymbol|SourceDocument=System.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=StepperMotorDriver_Ver_0.1.SchDoc|SymbolType=Normal|RawFileName=StepperMotorDriver_Ver_0.1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=System.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=StepperMotorController_Ver_0.1.SchDoc|SymbolType=Normal|RawFileName=StepperMotorController_Ver_0.1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=System.SchDoc

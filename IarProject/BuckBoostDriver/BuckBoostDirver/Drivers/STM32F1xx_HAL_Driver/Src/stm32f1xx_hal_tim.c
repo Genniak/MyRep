@@ -1077,7 +1077,8 @@ HAL_StatusTypeDef HAL_TIM_PWM_Start(TIM_HandleTypeDef *htim, uint32_t Channel)
   assert_param(IS_TIM_CCX_INSTANCE(htim->Instance, Channel));
 
   /* Enable the Capture compare channel */
-  TIM_CCxChannelCmd(htim->Instance, Channel, TIM_CCx_ENABLE);
+  TIM_CCxChannelCmd(htim->Instance, Channel, TIM_CCx_ENABLE | TIM_CCxN_ENABLE);
+  
 
   if(IS_TIM_BREAK_INSTANCE(htim->Instance) != RESET)
   {

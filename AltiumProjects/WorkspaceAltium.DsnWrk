@@ -1,8 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Library\SMD\SMD.LibPkg
-[Project2]
 ProjectPath=PCB_ProjectStepperMotorDriver_Ver_0.1.PrjPCB
-[Project3]
-ProjectPath=Library\SMD\Project Outputs for SMD\SMD\SMD.LibPkg
+[Project2]
+ProjectPath=Library\SMD\SMD.LibPkg

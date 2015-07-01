@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C24 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C25 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C26 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C27 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C28 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C29 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C30 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C33 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C41 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C42 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C11 Old Footprint=RB7.6-15 New Footprint=10x10.5
+Change Component Footprint: Designator=C16 Old Footprint=RB7.6-15 New Footprint=10x10.5
+Added Room: Name=Designator
+Added Room: Name=Designator

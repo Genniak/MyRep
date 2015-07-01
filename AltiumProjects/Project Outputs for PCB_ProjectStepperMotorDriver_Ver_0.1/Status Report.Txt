@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [PCB_ProjectStepperMotorDriver_Ver_0.1.PrjPCB]
+   Generated File[StepperMotorDriver_Ver_0.1.BOM]
+   Generated File[StepperMotorDriver_Ver_0.1.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:04:19 On 01.07.2015
